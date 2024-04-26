@@ -14,7 +14,7 @@ Explore our online store today and discover the perfect pair to elevate your war
 
 Why wait any longer? Embark on your journey into The Shoe Company project today! Simply click the link below and let the excitement unfold! 🎉🔗
 
-[Access The Shoe Company Now!](https://myshoecompany.netlify.app/)
+[Access The Shoe Company Now!](https://main--myshoecomapny.netlify.app/)
 
 ## License
 
